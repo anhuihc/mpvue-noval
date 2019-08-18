@@ -13,12 +13,6 @@
 #### 打开微信开发者工具即可看到开发版
 
 ## 效果图
-<img src="./demo/IMG_0179.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0182.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0181.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0183.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0184.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0185.PNG" width="200" style="display: inline-block;" />
-<img src="./demo/IMG_0186.PNG" width="200" style="display: inline-block;" />
+<img src="./demo/IMG_0179.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0182.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0181.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0183.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0184.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0185.PNG" width="200" style="display: inline-block;" /><img src="./demo/IMG_0186.PNG" width="200" style="display: inline-block;" />
 
 
