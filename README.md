@@ -1,37 +1,16 @@
-# my-project
-
-> A Mpvue project
+##说明
+#由于微信限制个人开发者上架文娱-小说类小程序，所以本小程序并未上架，如有想体验的，请加群联系开发者，参与体验。
+##QQ群：869427083
+#本小程序内置api为个人写的爬虫，仅供学习适用，后面会生成api文档供学习者使用，目标源为笔趣阁
+##api接口请勿商用，如有意外，后果自负！
 
 ## Build Setup
+#替换微信appId
+#npm install/yarn add
+#npm run dev
+#打开微信开发者工具即可看到开发版
 
-``` bash
-# 初始化项目
-vue init mpvue/mpvue-quickstart myproject
-cd myproject
+##效果图
 
-# 安装依赖
-yarn
 
-# 开发时构建
-npm dev
 
-# 打包构建
-npm build
-
-# 指定平台的开发时构建(微信、百度、头条、支付宝)
-npm dev:wx
-npm dev:swan
-npm dev:tt
-npm dev:my
-
-# 指定平台的打包构建
-npm build:wx
-npm build:swan
-npm build:tt
-npm build:my
-
-# 生成 bundle 分析报告
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
