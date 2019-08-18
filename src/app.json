@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/search/main",
+    "pages/history/main",
+    "pages/details/main",
+    "pages/chapter/main",
+    "pages/source/main",
+    "pages/recommend/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FEFEFE",
+    "navigationBarTitleText": "瓢虫",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#FEFEFE",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+
+    "list": [{
+      "text": "书架",
+      "pagePath": "pages/index/main",
+      "iconPath": "static/tabs/mybook.png",
+      "selectedIconPath": "static/tabs/mybook-active.png"
+    }, {
+      "text": "推荐",
+      "pagePath": "pages/recommend/main",
+      "iconPath": "static/tabs/recomm.png",
+      "selectedIconPath": "static/tabs/recomm-active.png"
+    }],
+    "position": "bottom"
+  },
+  "usingComponents": {
+    "i-button": "static/iview/button/index",
+    "i-notice-bar": "static/iview/notice-bar/index",
+    "i-card": "static/iview/card/index",
+    "i-divider": "static/iview/divider/index",
+    "i-drawer": "static/iview/drawer/index",
+    "i-cell": "static/iview/cell/index",
+    "i-cell-group": "static/iview/cell-group/index",
+    "i-icon": "static/iview/icon/index",
+    "i-message": "static/iview/message/index",
+    "i-swipeout": "static/iview/swipeout/index",
+    "i-input-number": "static/iview/input-number/index"
+
+  }
+}
